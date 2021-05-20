@@ -42,10 +42,10 @@
 
 <br />
 <br />
-<details>
-  :zap: GitHub Stats
 
-  ![Nayanajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayane95&show_icons=true&theme=radical)
+:zap: GitHub Stats
+
+![Nayanajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayane95&show_icons=true&theme=radical)
 
 
-</details>
+
